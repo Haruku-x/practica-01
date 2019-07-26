@@ -1,0 +1,17 @@
+body {
+    background-image: url('../img/bg-login.jpg') !important;
+    height: 100% !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.login-box {
+    background-color: rgba(201, 201, 201, 0.616);
+    z-index: 10;
+    position: relative;
+}
+
+.login-logo {
+    text-shadow: 2px 2px 0 rgb(255, 255, 255);
+}
